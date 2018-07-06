@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Parent Child Communication
+  </h1>
+ 
+   <app-parent [fromparent]="message"  ></app-parent>           <!-- binding event  with container-->
+   <app-child  (Event)="msg= $event" ></app-child>             <!-- for sending msg to child component-->
+ 
+
+    <h2>{{msg}}</h2>                                  <!--for displaying msg from child to parent-->
+</div>
+

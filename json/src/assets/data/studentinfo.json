@@ -1,0 +1,7 @@
+[
+    {"Name":"Shivam", "Address":"Pune", "College":"PICT", "Course": "ENTC"},
+    {"Name":"Monika", "Address":"Satara", "College":"Cummins", "Course": "BE" },
+    {"Name":"Sneha", "Address":"Solapur", "College":"Indira", "Course": "MSC"},
+    {"Name":"Kalyani", "Address":"Junnar", "College":"Jay Hind", "Course": "BE"},
+    {"Name":"Aditya", "Address":"Manchar", "College":"Modern", "Course": "B.COM"}
+]
